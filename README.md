@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++ | 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Flutter
+- 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Canva | Visual Studio code | Git | DEV C C++
+- 🔧 &nbsp; Canva | Visual Studio code | Git | DEV C C++ | FIGMA | CorelDraw
 
 
 <br>
