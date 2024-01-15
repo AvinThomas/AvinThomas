@@ -33,5 +33,5 @@
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in//)💻
  - Shoot Me an [Email](mailto:avinthomas2@gmail.com) 💌
- - Dm me @ [Instagram](https://www.instagram.com/avin_thomas_/)
+ - Dm me @ [Instagram](https://www.instagram.com/_avinthomas_?igsh=MWxvbmc0Y29jMnVrZQ==)
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/AvinThomas)
